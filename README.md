@@ -15,7 +15,7 @@ Working on following points:
 
 - Commit push on commit in feature branch and then change commit message
 
-4. cherry pick
+4. Cherry pick
 
 - Pick some commits from feature branch to master branch
 
@@ -39,7 +39,7 @@ Working on following points:
 
 #### 3. Change commit message
                   git commit --amend -m <commit message> 
-#### 4. cherry pick
+#### 4. Cherry pick
                   git cherry-pick <ref number>   
 #### 5. Drop commit
                   git reset <ref number>
