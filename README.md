@@ -29,18 +29,18 @@ Working on following points:
 
 #### For merge
                   git merge feature
-                  
-                  or
-                  
-                  git merge --no-ff feature
 
 #### 2. Rebase
                   git rebase master 
 
 #### 3. Change commit message
+
                   git commit --amend -m <commit message> 
 #### 4. Cherry pick
+
                   git cherry-pick <ref number>   
 #### 5. Drop commit
+
                   git reset <ref number>
+                  
 #### For detail submission is in PDF named "Sumit_Rajput_Practical"
